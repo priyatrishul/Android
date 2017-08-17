@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+
+    <string name="image">image</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_btn">Add City</string>
+    <string name="forecast">FORECAST</string>
+    <string name="astronomy">Sun</string>
+    <string name="check">Use Location</string>
+    <string name="action_del">Delete</string>
+    <string name="search_city">Search City by name</string>
+
+    <string name="search_txt">New AutoCompleteTextView</string>
+    <string name="title_activity_search_city">Search City</string>
+    <string name="title_activity_details">Details</string>
+    <string name="Temperature">Temperature</string>
+    <string name="cancel_btn">Cancel</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activity Life Cycle</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">""</string>
+    <string name="clearButton">Clear</string>
+    <string name="on_create">\OnCreate \n</string>
+    <string name="on_start">OnStart \n</string>
+    <string name="on_restart">OnRestart \n</string>
+    <string name="on_pause">OnPause \n</string>
+    <string name="on_resume">OnResume \n</string>
+    <string name="on_saveInstanceState">OnSaveInstanceState \n</string>
+    <string name="on_restoreInstanceState">OnRestoreInstanceState \n</string>
+</resources>
